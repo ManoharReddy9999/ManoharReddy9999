@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Manohar Reddy
 
-<!--
-**ManoharReddy9999/ManoharReddy9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ B.Tech CSE (AI & ML) Student at Presidency University
+ Passionate about Machine Learning and real-world problem solving
+ Interested in building intelligent systems and AI-driven applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects
+
+🔹 AI-Enabled Water Well Predictor
+
+* Predicts groundwater suitability, depth, discharge, and water quality
+* Built using Random Forest, XGBoost, and Streamlit
+
+🔹 ML Phisher – URL Safety Classifier
+
+* Detects phishing URLs using machine learning techniques
+* Focused on improving web security awareness
+
+---
+
+##  Tech Stack
+
+* **Languages:** Python, Java, SQL
+* **ML Libraries:** Scikit-learn, Pandas, NumPy
+* **Web:** HTML, CSS, JavaScript
+* **Tools:** GitHub, Google Colab, VS Code
+
+---
+
+##  Currently Learning
+
+* Advanced Machine Learning
+* Deep Learning Basics
+* Real-world AI applications
+
+---
+
+##  Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/sannapareddy-manohar-reddy-2a75a6256/
+* GitHub: https://github.com/ManoharReddy9999
